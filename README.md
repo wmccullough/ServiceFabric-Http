@@ -5,9 +5,9 @@ This project provides a set of libraries and framework components for enabling m
 
 This project is built on [Asp.Net Core](http://docs.asp.net/en/latest/index.html)
 
-Note: At this time, the project uses both stable and unstable builds of the .net cli. In order build, you may need to install CLI versions of the DNX from the stable or unstable DNX feeds. For more information on installing DNX, refer to the following website:
+Note: At this time, the project uses both stable and unstable builds of the dotnet cli. In order build, you may need to install versions of the dotnet cli. For more information on installing DNX, refer to the following website:
 
-[DNX Overview](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+[DotNet CLI](https://github.com/dotnet/cli)
 
 # Libraries for HTTP-based Azure Service Fabric services
 
