@@ -1,3 +1,14 @@
+# Getting Started
+
+**What is this?**
+This project provides a set of libraries and framework components for enabling middleware communication with [Azure Service Fabric](https://azure.microsoft.com/en-us/documentation/services/service-fabric/). 
+
+This project is built on [Asp.Net Core](http://docs.asp.net/en/latest/index.html)
+
+Note: At this time, the project uses both stable and unstable builds of the .net cli. In order build, you may need to install CLI versions of the DNX from the stable or unstable DNX feeds. For more information on installing DNX, refer to the following website:
+
+[DNX Overview](http://docs.asp.net/en/latest/getting-started/installing-on-windows.html)
+
 # Libraries for HTTP-based Azure Service Fabric services
 
 This project contains three components:
